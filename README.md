@@ -1,3 +1,3 @@
 Warning Low Oxygen!!
 
-<img src="[https://media.tenor.com/oaoqS3Z85fQAAAAC/neptune-wave-dyln.gif]" width="498" height="249" />
+<img src="[https://github.com/nxptunx/nxptunx/blob/main/neptune-wave-dyln.gif]" width="498" height="249" />
