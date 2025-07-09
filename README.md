@@ -14,7 +14,7 @@
 
 ### 🛠️ About Me
 A Regular Developer
-I dive deep into
+Yea Nothing more :\
 
 ---
 
