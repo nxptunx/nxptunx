@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>“It’s not always about speed. It’s about control.” – MF GHOST</em>
-  <em>“You won’t find me on the track. You’ll find me in the code.” – nxptunx</em>
+  <em>“On the edge of control, the mind leaves the body… and what drives isn't the driver anymore.” – nxptunx</em>
 </p>
 
 ---
