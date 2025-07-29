@@ -13,8 +13,7 @@
 ---
 
 ### 🛠️ About Me
-Developer,what did u even expect?
-Makes music when free time
+Developer,Racer,Producer,Nerd
 
 ---
 
